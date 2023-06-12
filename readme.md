@@ -22,3 +22,5 @@ In TodoApp I separated app in 3 parts
    In the middle section we can also filter task list by clicking All, active and completed buttons.
    At the right side of the footer we have Clear Completed button, by clicking it all the completed tasks that has been check will
    disappear from taskslist.
+
+![Demo of Application](guide.gif)
